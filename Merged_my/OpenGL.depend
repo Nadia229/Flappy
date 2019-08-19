@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1542457441 source:f:\l-4 t-2\graphics sessonal\offline 1\circle move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\l-4 t-2\graphics sessonal\offline 1\circle move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1542457441 source:g:\l-4 t-2\graphics sessonal\offline 1\circle move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\l-4 t-2\graphics sessonal\offline 1\circle move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1558374256 source:f:\uiu\graphics lab sample codes\tutorial_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\gl.h
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glu.h
+	<GL/gl.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1558374256 source:f:\uiu\graphics lab sample codes\tutorial_2\merged\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_2\merged\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1560190928 source:c:\users\student\desktop\merged\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1560190932 c:\users\student\desktop\merged\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1560841751 source:c:\users\student\desktop\merged_my\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1560190932 c:\users\student\desktop\merged_my\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1566220507 source:c:\users\user\desktop\computer graphics lab\merged_my\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1560190932 c:\users\user\desktop\computer graphics lab\merged_my\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
