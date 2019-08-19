@@ -1,7 +1,7 @@
 In this  game have:
 1. A flappy bird that can only move up and down.
 2. All obstacle are coming from front of bird.
-3. Here have a score option which mesuring how distances its                 going.
+3. Here have a score option which mesuring how distances its going.
 
 what have to know to make this game?
 Actually not too much things.
